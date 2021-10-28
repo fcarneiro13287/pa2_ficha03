@@ -20,6 +20,7 @@ public class Pessoa {
             return nome;
         }
         public char getGenero(){
+
             return genero;
         }
         public int getIdade() {
@@ -32,7 +33,7 @@ public class Pessoa {
         public void setGenero(char n) {
             genero = n;
         }
-        public void setIdade(int n) {
+        public void setIdade(int n){
             idade = n;
         }
 
