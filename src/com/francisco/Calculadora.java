@@ -6,13 +6,13 @@ public class Calculadora {
     public Calculadora (){
     }
     //metodos
-    public static double soma(double num1, double num2){
+    public double suma( double num1, double num2){
         return num1+num2;
     }
-    public double soma( double num1, double num2, double num3){
+    public double suma( double num1, double num2, double num3){
         return num1+num2+num3;
     }
-    public static double subtracao(double num1, double num2){
+    public double subtracao(double num1, double num2){
         return num1-num2;
     }
     public double subtracao(double num1, double num2, double num3){
